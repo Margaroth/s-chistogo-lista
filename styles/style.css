@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 }
 
 .menu {
-    font-family: Inter, Arial, sans-serif;
+    font-family: Inter;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -55,10 +55,6 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 }
 
 .cover {
-    background-color: black;
-}
-
-.cover {
     background-color: #000;
     height: 228px;
     background-image: url("../images/cover.svg");
@@ -69,7 +65,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 
 .cover_txt {
     color: #FFF;
-    font-family: Ebgaramond, 'Times New Roman', serif;
+    font-family: Ebgaramond;
     font-size: 72px;
     font-style: normal;
     font-weight: 400;
@@ -92,7 +88,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 .eight_ways {
     background-color: #000;
     color: #CCC;
-    font-family: Inter, Arial, sans-serif;
+    font-family: Inter;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -111,7 +107,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 .par1 {
     background-color: #000;
     color: #F5F5F5;
-    font-family: Inter, Arial, sans-serif;
+    font-family: Inter;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -137,7 +133,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 .title {
     flex-shrink: 0;
     color: #131313;
-    font-family: Ebgaramond, 'Times New Roman', serif;
+    font-family: Ebgaramond;
     font-size: 28px;
     font-style: normal;
     font-weight: 500;
@@ -156,7 +152,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
     flex-shrink: 0;
     width: 320px;
     color: #131313;
-    font-family: Inter, Arial, sans-serif;
+    font-family: Inter;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -167,7 +163,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 .yellow_list {
     flex: 1 0 0;
     color:#131313;
-    font-family: Inter, Arial, sans-serif;
+    font-family: Inter;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -195,7 +191,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 .black_title {
     flex-shrink: 0;
     color: #F5F5F5;
-    font-family: Ebgaramond, 'Times New Roman', serif;
+    font-family: Ebgaramond;
     font-size: 28px;
     font-style: normal;
     font-weight: 500;
@@ -206,7 +202,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
     flex-shrink: 0;
     width: 320px;
     color: #F5F5F5;
-    font-family: Inter, Arial, sans-serif;
+    font-family: Inter;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -242,7 +238,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 
 .author_name {
     color: #F5F5F5;
-    font-family: Inter, Arial, sans-serif;
+    font-family: Inter;
     font-size: 16px;
     font-style: normal;
     font-weight: 700;
@@ -252,7 +248,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 
 .author_header {
     color: #F5F5F5;
-    font-family: Ebgaramond, 'Times New Roman', serif;
+    font-family: Ebgaramond;
     font-size: 22px;
     font-style: normal;
     font-weight: 500;
@@ -261,7 +257,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 
 .grey_chapter {
     color: #F5F5F5;
-    font-family: Inter, Arial, sans-serif;
+    font-family: Inter;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -270,7 +266,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 
 .noname_header {
     color: #131313;
-    font-family: Ebgaramond, 'Times New Roman', serif;
+    font-family: Ebgaramond;
     font-size: 22px;
     font-style: normal;
     font-weight: 500;
@@ -279,7 +275,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 
 .yellow_chapter {
     color: #131313;
-    font-family: Inter, Arial, sans-serif;
+    font-family: Inter;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -308,7 +304,7 @@ footer {
 
 .footer_text {
     color: #F5F5F5;
-    font-family: Inter, Arial, sans-serif;
+    font-family: Inter;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -322,7 +318,7 @@ footer {
 
 .footer_text2 {
     color: #F5F5F5;
-    font-family: Inter, Arial, sans-serif;
+    font-family: Inter;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
